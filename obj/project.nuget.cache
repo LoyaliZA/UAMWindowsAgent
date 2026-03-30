@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/z8ExCyPXh1t31piokudO22Ug5cN3lFjX7h3vq4ZD8gN1C0LmVDJgj7vFNinvLTLs6E8muwDH1cJ6hnybxD2w==",
+  "success": true,
+  "projectFilePath": "/home/gabriel/AgenteUAM_Windows/AgenteUAM_Windows.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/sixlabors.imagesharp/3.1.4/sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.25/microsoft.netcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.25/microsoft.aspnetcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.25/microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-63p8-c4ww-9cg7",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qxrv-gp6x-rc23",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    }
+  ]
+}
