@@ -75,7 +75,7 @@ namespace UnidadAutomatizadaMonitoreo
         // 2. Configuración API
         // ==========================================
         static readonly string ApiUrl = "http://192.168.1.66:8080/api/logs";
-        static readonly string ApiToken = "1|rE39T75NzouA4yBwoQciQMSipYX9YDbSwY6aMLwTc2d3facb";
+        static readonly string ApiToken = "1|W5o9sgTGA3SpT2vSgwApUE91mm6m9Pol1eSQzgEu6dcd3de4";
         static readonly string EmployeeId = "EMP-WIN-01";
 
         static async Task Main(string[] args)

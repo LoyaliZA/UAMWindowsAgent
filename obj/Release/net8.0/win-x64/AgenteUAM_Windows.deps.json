@@ -10,6 +10,7 @@
       "AgenteUAM_Windows/1.0.0": {
         "dependencies": {
           "Microsoft.NET.ILLink.Tasks": "8.0.25",
+          "SixLabors.ImageSharp": "3.1.4",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.25"
         },
         "runtime": {
@@ -692,7 +693,15 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.25": {}
+      "Microsoft.NET.ILLink.Tasks/8.0.25": {},
+      "SixLabors.ImageSharp/3.1.4": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -712,6 +721,13 @@
       "sha512": "sha512-sqX4nmBft05ivqKvUT4nxaN8rT3apCLt9SWFkfRrQPwra1zPwFknQAw1lleuMCKOCLvVmOWwrC2iPSm9RiXZUg==",
       "path": "microsoft.net.illink.tasks/8.0.25",
       "hashPath": "microsoft.net.illink.tasks.8.0.25.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lFIdxgGDA5iYkUMRFOze7BGLcdpoLFbR+a20kc1W7NepvzU7ejtxtWOg9RvgG7kb9tBoJ3ONYOK6kLil/dgF1w==",
+      "path": "sixlabors.imagesharp/3.1.4",
+      "hashPath": "sixlabors.imagesharp.3.1.4.nupkg.sha512"
     }
   },
   "runtimes": {

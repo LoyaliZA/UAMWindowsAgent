@@ -38,6 +38,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )",
+              "autoReferenced": true
+            },
             "SixLabors.ImageSharp": {
               "target": "Package",
               "version": "[3.1.4, )"

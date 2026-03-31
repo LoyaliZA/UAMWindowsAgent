@@ -197,3 +197,4 @@
 /home/gabriel/AgenteUAM_Windows/obj/Release/net8.0/win-x64/ref/AgenteUAM_Windows.dll
 /home/gabriel/AgenteUAM_Windows/obj/Release/net8.0/win-x64/AgenteUAM_Windows.csproj.AssemblyReference.cache
 /home/gabriel/AgenteUAM_Windows/bin/Release/net8.0/win-x64/SixLabors.ImageSharp.dll
+/home/gabriel/AgenteUAM_Windows/obj/Release/net8.0/win-x64/AgenteUAM_Windows.sourcelink.json

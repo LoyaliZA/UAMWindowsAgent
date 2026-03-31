@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w/z8ExCyPXh1t31piokudO22Ug5cN3lFjX7h3vq4ZD8gN1C0LmVDJgj7vFNinvLTLs6E8muwDH1cJ6hnybxD2w==",
+  "dgSpecHash": "xXDdEnri8tcHdoskMsLqWJSynsd9A8aRVBpqOIjIVfRFNuHq+YQRzGjlM0rTiFY8SHnFeorNMhh5J4dAl0Ye3A==",
   "success": true,
   "projectFilePath": "/home/gabriel/AgenteUAM_Windows/AgenteUAM_Windows.csproj",
   "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/microsoft.net.illink.tasks/8.0.25/microsoft.net.illink.tasks.8.0.25.nupkg.sha512",
     "/home/gabriel/.nuget/packages/sixlabors.imagesharp/3.1.4/sixlabors.imagesharp.3.1.4.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.25/microsoft.netcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
     "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.25/microsoft.aspnetcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
